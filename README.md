@@ -1,1 +1,1 @@
-# Disease-predictor
+# Preliminary Diagnostic APP
