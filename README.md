@@ -17,4 +17,4 @@ Two algorithms will give the diagnosis.
 To reset the inputs click the "reset button" and to exit the GUI click the "exit systems" button.
 
 # GUI
-![](https://github.com/Priyansh-0407/Disease-predictor/blob/main/GUI.png)
+![](https://github.com/Priyansh-0407/Disease-predictor/blob/main/GUI%20.png)
